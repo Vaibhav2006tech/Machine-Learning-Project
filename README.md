@@ -114,5 +114,3 @@ The Random Forest Classifier achieved the best overall performance among all imp
 ## Author
 
 Name: Vaibhav Balaji
-
-ML Enthusiast
