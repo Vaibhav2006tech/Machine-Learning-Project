@@ -115,6 +115,4 @@ The Random Forest Classifier achieved the best overall performance among all imp
 
 Name: Vaibhav Balaji
 
-Register Number: MA2411020010014
-
-Subject: Machine Learning Techniques
+ML Enthusiast
